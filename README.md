@@ -15,8 +15,7 @@ To set up the project, ensure you have Python installed on your machine. Then, f
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/my-neon-pose-tracker.git
-   cd my-neon-pose-tracker
+   git clone https://github.com/heysudhuu/neon-pose-tracker.git
    ```
 
 2. Install the required dependencies:
